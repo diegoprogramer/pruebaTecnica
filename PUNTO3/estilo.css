@@ -1,0 +1,24 @@
+BODY {
+    background: silver;
+}
+
+.loggin {
+    padding: 38px;
+    border: 2px;
+    width: 200px;
+    height: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+}
+
+#btn-loggin {
+    padding: 12px;
+    width: 100%;
+    text: white;
+    background: orange;
+}
+
+#clave {
+    width: 100%;
+}
